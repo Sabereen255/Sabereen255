@@ -7,8 +7,17 @@
 📍 University of Connecticut  
 📊 Business Analytics · Data Science · Data Visualization
 
-[LinkedIn](https://www.linkedin.com/in/sabereen-faruque/) •
-[Email](sabereen.faruque@gmail.com / sah24002@uconn.edu)
+<br>
+
+<a href="https://www.linkedin.com/in/sabereen-faruque/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:sah24002@uconn.edu">
+  <img src="https://img.shields.io/badge/UConn-Email-E4002B?style=for-the-badge&logo=gmail&logoColor=white" alt="UConn Email">
+</a>
+<a href="mailto:sabereen.faruque@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 </div>
 
@@ -32,7 +41,7 @@ Concentration: **Data Science**
 
 ## Current Focus
 
-I'm strengthening my analytical and technical skills by working on hands-on projects involving databases, dashboards, and real-world datasets.
+I'm strengthening my analytical and technical skills by working on hands-on projects involving databases, dashboards and real-world datasets.
 
 ## Fun Fact
 
