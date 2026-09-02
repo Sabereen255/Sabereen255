@@ -8,7 +8,7 @@
 📊 Business Analytics · Data Science · Data Visualization
 
 [LinkedIn](https://www.linkedin.com/in/sabereen-faruque/) •
-[Email](mailto:sabereen.faruque@gmail.com / sah24002@uconn.edu)
+[Email](sabereen.faruque@gmail.com / sah24002@uconn.edu)
 
 </div>
 
