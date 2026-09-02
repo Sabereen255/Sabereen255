@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sabereen255/Sabereen255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sabereen Faruque Safa 👋
 
-Here are some ideas to get you started:
+### MSBAPM Student · Student Data Analyst · Aspiring Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 University of Connecticut  
+📊 Business Analytics · Data Science · Data Visualization
+
+[LinkedIn](https://www.linkedin.com/in/sabereen-faruque/) •
+[Email](mailto:sabereen.faruque@gmail.com / sah24002@uconn.edu)
+
+</div>
+
+---
+
+## About Me
+
+I'm pursuing a Master's in Business Analytics and Project Management with a concentration in Data Science at the University of Connecticut. I also work as a Student Data Analyst, where I enjoy transforming complex data into clear and useful insights.
+
+## Program
+
+🎓 **MSBAPM @ UConn**  
+Concentration: **Data Science**
+
+## Skills I'm Learning This Semester
+
+- 🐍 Python for data analysis and data science
+- 🗄️ SQL and database management
+- 📊 Power BI and data visualization
+- 🤖 Machine learning and predictive analytics
+
+## Current Focus
+
+I'm strengthening my analytical and technical skills by working on hands-on projects involving databases, dashboards, and real-world datasets.
+
+## Fun Fact
+
+✨ I enjoy finding the story hidden inside data!
+
+---
+
+<div align="center">
+
+### Let's connect and learn together!
+
+</div>
