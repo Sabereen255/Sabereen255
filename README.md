@@ -48,6 +48,7 @@ I'm strengthening my analytical and technical skills by working on hands-on proj
 ## Fun Fact
 
 ✨ I enjoy finding the story hidden inside data!
+🏓 I love playing Pickleball!
 
 ---
 
