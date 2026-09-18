@@ -102,8 +102,12 @@ Designed a relational database with 10+ entities in third normal form, enforcing
 
 ## 📊 GitHub Stats
 
-![Sabereen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabereen255&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabereen255&layout=compact&theme=dark)
+![Profile views](https://komarev.com/ghpvc/?username=Sabereen255&color=blueviolet&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Sabereen255?style=social)
+
+### Languages I Work With
+
+![Language icons](https://skillicons.dev/icons?i=py,r,mysql,git&theme=dark)
 
 ---
 
